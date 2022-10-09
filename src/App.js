@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <div className="title">
-      <p>Juanpcs</p>
+      <p>Juanpcs Counter React</p>
       </div>
       <Counter counter={counter} />
       <Buttons plusOne={plusOne} minusOne={minusOne} resetCounter={reset} />

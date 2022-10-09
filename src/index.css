@@ -13,11 +13,9 @@ body{
 
 .title{
     display: flex;
-    justify-content: flex-start;
     color: aliceblue;
     background-color: blue;
-    align-items: center;
-    width: 100px;
+    align-items: center;   
     height: 1.5em;
     border-radius: 20%;
     
