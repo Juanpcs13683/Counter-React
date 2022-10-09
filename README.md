@@ -1,5 +1,5 @@
 ## Counter Made with React.js
-This app was made using the react package and it was implemented components and hooks for render the app when the state of the counter is set to another value.
+This app was made using the react package and it was implemented components and hooks for render the app when the state of the counter is set to another value, also it is responsive by using flex in css.
 
 
 # Getting Started with Create React App
