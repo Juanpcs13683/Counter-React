@@ -2,6 +2,10 @@
 This app was made using the react package and it was implemented components and hooks for render the app when the state of the counter is set to another value, also it is responsive by using flex in css.
 
 
+<img src="https://github.com/Juanpcs13683/counter-react/blob/master/main.PNG" alt="My cool logo"/>
+
+## Live page
+[Visit the project](https://juanpcs13683.github.io/counter-react/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
