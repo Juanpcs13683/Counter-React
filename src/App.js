@@ -1,4 +1,5 @@
 import { useState } from "react";
+import React from "react";
 import Buttons from "./components/Buttons";
 import Counter from "./components/Counter";
 
@@ -21,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <div className="title">
-      <p>Juanpcs Counter React</p>
+      <p>Juanpcs Counter React ©️</p>
       </div>
       <Counter counter={counter} />
       <Buttons plusOne={plusOne} minusOne={minusOne} resetCounter={reset} />

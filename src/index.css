@@ -17,9 +17,9 @@ body{
     background-color: blue;
     align-items: center;   
     height: 1.5em;
-    border-radius: 20%;
-    
-    
+    border-radius: 20px;
+    width: 200px;
+    margin-bottom: 60px;
 }
 
 /*
@@ -34,7 +34,7 @@ border-radius: 50%;
 font-size: 3em;
 justify-content: center;
 align-items: center;
-margin: auto;
+margin: 50px auto;
 }
 
 p{
